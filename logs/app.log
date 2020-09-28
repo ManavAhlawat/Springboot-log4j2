@@ -1,0 +1,12 @@
+[INFO ] 2020-09-28 02:13:22.540 [main] Log4jApplication - Starting Log4jApplication on Manavs-MBP with PID 17958 (/Users/manavahlawat/Documents/ItlizeTraining/Springboot_Log4j/log4j/target/classes started by manavahlawat in /Users/manavahlawat/Documents/ItlizeTraining/Springboot_Log4j/log4j)
+[DEBUG] 2020-09-28 02:13:22.548 [main] Log4jApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+[INFO ] 2020-09-28 02:13:22.548 [main] Log4jApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-28 02:13:23.664 [main] Log4jApplication - Started Log4jApplication in 1.426 seconds (JVM running for 3.289)
+[DEBUG] 2020-09-28 02:13:52.622 [http-nio-8080-exec-1] HelloController - Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+[DEBUG] 2020-09-28 02:13:52.623 [http-nio-8080-exec-1] HelloController - Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+[INFO ] 2020-09-28 02:15:47.566 [main] Log4jApplication - Starting Log4jApplication on Manavs-MBP with PID 18005 (/Users/manavahlawat/Documents/ItlizeTraining/Springboot_Log4j/log4j/target/classes started by manavahlawat in /Users/manavahlawat/Documents/ItlizeTraining/Springboot_Log4j/log4j)
+[DEBUG] 2020-09-28 02:15:47.573 [main] Log4jApplication - Running with Spring Boot v2.3.4.RELEASE, Spring v5.2.9.RELEASE
+[INFO ] 2020-09-28 02:15:47.573 [main] Log4jApplication - No active profile set, falling back to default profiles: default
+[INFO ] 2020-09-28 02:15:48.458 [main] Log4jApplication - Started Log4jApplication in 1.2 seconds (JVM running for 2.261)
+[DEBUG] 2020-09-28 02:15:52.982 [http-nio-8080-exec-1] HelloController - Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
+[DEBUG] 2020-09-28 02:15:52.983 [http-nio-8080-exec-1] HelloController - Hello from Log4j 2 - num : [1, 2, 3, 4, 5]
